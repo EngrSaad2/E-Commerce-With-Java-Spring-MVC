@@ -1,4 +1,12 @@
-# ShoppingCart - An amazing website [![HitCount](http://hits.dwyl.io/ikismail/ShoppingCart.svg)](http://hits.dwyl.io/ikismail/ShoppingCart) [![Not Maintained](https://img.shields.io/badge/Maintenance%20Level-Not%20Maintained-yellow.svg)](https://gist.github.com/cheerfulstoic/d107229326a01ff0f333a1d3476e068d)
+# ShoppingCart - An amazing website [![HitCount](https://img.shields.io/badge/Maintenance%20Level-Not%20Maintained-yellow.svg)]
+
+Developer: <b>SAAD</b> <br>
+Email: saad@triangeltech.com<br>
+LinkedIn: https://www.linkedin.com/in/raselhasandurjoy<br>
+Facebook: https://www.facebook.com/raselhasandurjoy<br>
+Company WEB: https://triangeltech.com/ <br>
+Personal WEB Portfolio: http://saadportfolio.com <br>
+Phone: +8801904654712<br>
 
 
 We developed an end to end **Ecommerce web Application using Spring MVC** with multiple
